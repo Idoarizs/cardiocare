@@ -43,7 +43,7 @@ Proyek ini menggabungkan **teknologi AI** dan **web modern** untuk menciptakan p
 
 ---
 
-# Dokumentasi API
+# Dokumentasi API 📄
 ## Endpoint: `/predict`
 **Method:** `POST`  
 **Deskripsi:**  
