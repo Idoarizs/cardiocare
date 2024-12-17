@@ -1,4 +1,4 @@
-# **CardioCare ❤️ AI-Powered Landing Page**
+# **CardioCare ❤️ AI-Powered Website**
 
 ## **⚠️ Peringatan Penting**
 Proyek ini **berfokus pada integrasi AI ke dalam web** untuk memberikan gambaran awal terkait **risiko penyakit jantung**.  
