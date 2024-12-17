@@ -77,6 +77,6 @@ Setelah data dikirimkan, server akan memberikan respon dalam format JSON yang be
 #### Struktur Response:
 ```json
 {
-  "prediction": "Moderate",
-  "suggestion": "Kami menyarankan untuk konsultasi lebih lanjut dengan dokter untuk evaluasi lebih mendalam."
+  "prediction": "Heart Disease Detected",
+  "suggestion": "We recommend consulting a doctor for further evaluation."
 }
