@@ -3,10 +3,10 @@
 ## **⚠️ Peringatan Penting**
 Proyek ini **berfokus pada integrasi AI ke dalam web** untuk memberikan gambaran awal terkait **risiko penyakit jantung**.  
 
-**Hasil prediksi dari AI ini tidak dapat dijadikan acuan medis!**  
-1. Prediksi yang ditampilkan hanya berdasarkan model AI dan data yang dimasukkan pengguna.
-2. Silakan konsultasikan hasil prediksi Anda langsung kepada dokter atau tenaga medis profesional untuk diagnosis dan penanganan yang akurat.
-3. CardioCare bukan alat diagnosis medis.
+**Hasil prediksi dari AI ini tidak dapat dijadikan acuan medis!**
+- **Prediksi yang ditampilkan hanya berdasarkan model AI dan data yang dimasukkan pengguna.**
+- **Silakan konsultasikan hasil prediksi Anda langsung kepada dokter atau tenaga medis profesional untuk diagnosis dan penanganan yang akurat.**
+- **CardioCare bukan alat diagnosis medis.**
 ---
 
 ## **Tujuan Proyek 🎯**
