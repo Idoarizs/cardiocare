@@ -1,0 +1,54 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Flask instance folder
+instance/
+
+# Flask config file
+*.env
+
+# MySQL or SQLite databases
+*.db
+*.sqlite3
+
+# Log files
+*.log
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Coverage reports
+.coverage
+*.coveragerc
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Docker files
+docker-compose.yml
+Dockerfile
+
+# Environment files (to avoid exposing credentials)
+.envrc
