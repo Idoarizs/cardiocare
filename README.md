@@ -4,9 +4,9 @@
 Proyek ini **berfokus pada integrasi AI ke dalam web** untuk memberikan gambaran awal terkait **risiko penyakit jantung**.  
 
 **Hasil prediksi dari AI ini tidak dapat dijadikan acuan medis!**
+- **CardioCare bukan alat diagnosis medis.**
 - **Prediksi yang ditampilkan hanya berdasarkan model AI dan data yang dimasukkan pengguna.**
 - **Silakan konsultasikan hasil prediksi Anda langsung kepada dokter atau tenaga medis profesional untuk diagnosis dan penanganan yang akurat.**
-- **CardioCare bukan alat diagnosis medis.**
 ---
 
 ## **Tujuan Proyek 🎯**
@@ -28,8 +28,6 @@ Proyek ini menggabungkan **teknologi AI** dan **web modern** untuk menciptakan p
    - Pengguna mengisi formulir sederhana (usia, tekanan darah, kolesterol, dll).
    - Backend Flask menjalankan model AI untuk memprediksi risiko kesehatan.
    - Hasil berupa **risiko awal** ditampilkan di frontend ReactJS.
-3. **Konsultasi Ahli**  
-   Fitur untuk terhubung langsung dengan dokter atau tenaga kesehatan melalui formulir kontak.
 
 ---
 
