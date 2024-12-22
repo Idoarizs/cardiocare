@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Load your trained model
-MODEL_PATH = "E:\ProjectFiles\Visual Studio Code\AI\Heart Disease\HeartDisease_Model_V1.pkl"
+MODEL_PATH = "E:\ProjectFiles\Visual Studio Code\Web\cardiocare\HeartDisease_Model_V1.pkl"
 model = joblib.load(MODEL_PATH)
 
 # Resource class for prediction
