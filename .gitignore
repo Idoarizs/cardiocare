@@ -50,8 +50,8 @@ coverage.xml
 docker-compose.yml
 Dockerfile
 
-# Environment files (to avoid exposing credentials)
+# Environment files (to asvoid exposing credentials)
 .envrc
 
 # AI Model
-*pkl
+*.pkl
