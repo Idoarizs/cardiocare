@@ -36,6 +36,7 @@ This project combines **AI technology** and **modern web** to create an interact
 1. ReactJS: Building the interactive user interface.
 2. Axios: Connecting the React frontend with the Flask backend.
 3. TailwindCSS: Modern and responsive styling.
+4. Framer Motion: Make any design animated.
 ### **Backend**
 1. Flask: To create the API that receives data from the user and processes the AI model.
 2. Scikit-Learn: Training and running the heart disease risk prediction model.
